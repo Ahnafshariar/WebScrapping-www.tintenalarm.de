@@ -123,5 +123,3 @@ for brd_id in supplier_brand_id:
     print(model_category_table)
 
     break
-
-    #hghjgjhgj
